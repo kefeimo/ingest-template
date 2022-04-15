@@ -1,4 +1,4 @@
-from .pipeline import PipelineCustom
+from .pipeline import Pipeline
 from . import (
     pipeline,
     {% if cookiecutter.use_custom_filehandler == "yes" %}filehandler,{% endif %}
