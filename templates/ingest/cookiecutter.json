@@ -1,6 +1,9 @@
 {
+    "    author:": "Main author of this ingest.] \n====Press Enter to continue, Ctrl+C to terminate.",
     "author": "First Last",
+    "    email:": "Contact email of the author.] \n====Press Enter to continue, Ctrl+C to terminate.",
     "email": "",
+    "    location:": "The name of the location where the instrument or ingest is located.] \n====Press Enter to continue, Ctrl+C to terminate.",
     "location": "Location",
     "location_slug": "{{ cookiecutter.location | slugify(separator='_') }}",
     "ingest": "Ingest Name",
