@@ -1,0 +1,9 @@
+-r requirements.txt
+devtools
+rich
+pytest
+coverage
+mypy
+black
+flake8
+types-PyYAML

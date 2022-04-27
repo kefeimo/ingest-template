@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "njpwerner.autodocstring",
+        "eamodio.gitlens",
+        "Gruntfuggly.todo-tree",
+        "usernamehw.errorlens",
+        "redhat.vscode-yaml",
+    ]
+}
